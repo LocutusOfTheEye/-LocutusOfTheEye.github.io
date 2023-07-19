@@ -1,2 +1,2 @@
-# Bytes-to-Eco-Compact-Grams-B2E-C-
-How to convert bytes to grams using B2E-C Physical Compression
+# Bytes-to-Eco-Compact-Gram
+How to convert bytes to grams using B2EG
